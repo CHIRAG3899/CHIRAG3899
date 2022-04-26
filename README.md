@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CHIRAG3899
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Apache Kafka, Hadoop and Apache Spark
+- 🌱 I’m currently learning Apache Kafka, Airflow, Databricks and Apache Spark
 
 
 <!---
